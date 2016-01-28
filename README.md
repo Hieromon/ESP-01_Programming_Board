@@ -3,7 +3,7 @@
 DIY board that simplify the flash write for the ESP-01 module.
 
 
-![ESP-01_Programming_Board](images/ESP-01_Programming_Board_pic01.jpg)
+![ESP-01_Programming_Board](wiki/images/ESP-01_Programming_Board_pic01.jpg)
 
 It can be both flash writing and program execution while the connected by USB-Serial with host PC.
 ESP8266 will transition to the flash programming state when GPIO0 is the low level at reset. This programming board is equipped RESET button and FLASH button for controlling the flash programming state transition. 
