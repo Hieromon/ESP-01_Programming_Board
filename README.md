@@ -23,7 +23,8 @@ You can easily make a it yourself with universal board and few parts.
 11. PCB Universal board
 
 ## Schematic
-![schematic](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Breakout_Board.sch.pdf)
+
+![schematic](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Breakout_Board.sch.jpg)
 
 <tr>
 <td>![ESP-01_Programming_Board](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic02.jpg)</td>
