@@ -3,7 +3,7 @@
 DIY board that simplify the flash write for the ESP-01 module.
 
 
-![ESP-01_Programming_Board](https://raw.github.com/wik/hieromon/ESP-01_Programming_Board/ESP-01_Programming_Board_pic01.jpg)
+![ESP-01_Programming_Board](https://raw.github.com/wik/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic01.jpg)
 
 It can be both flash writing and program execution while the connected by USB-Serial with host PC.
 ESP8266 will transition to the flash programming state when GPIO0 is the low level at reset. This programming board is equipped RESET button and FLASH button for controlling the flash programming state transition. 
@@ -25,7 +25,7 @@ You can easily make a it yourself with universal board and few parts.
 11. PCB Universal board
 
 ## Schematic
-![schematic](https://raw.github.com/hieromon/ESP-01_Programming_Board/blob/master/ESP-01_Breakout_Board.sch.pdf)
+![schematic](https://github.com/hieromon/ESP-01_Programming_Board/blob/master/ESP-01_Breakout_Board.sch.pdf)
 
 ![ESP-01_Programming_Board](https://raw.github.com/wik/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic02.jpg)
 ![ESP-01_Programming_Board](https://raw.github.com/wik/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic03.jpg)
