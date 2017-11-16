@@ -26,7 +26,5 @@ You can easily make a it yourself with universal board and few parts.
 
 ![schematic](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Breakout_Board.sch.jpg)
 
-<tr>
-<td>![ESP-01_Programming_Board](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic02.jpg)</td>
-<td>![ESP-01_Programming_Board](https://raw.github.com/wiki/Hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic03.jpg)</td>
-</tr>
+![ESP-01_Programming_Board](https://raw.github.com/wiki/hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic02.jpg)
+![ESP-01_Programming_Board](https://raw.github.com/wiki/Hieromon/ESP-01_Programming_Board/images/ESP-01_Programming_Board_pic03.jpg)
